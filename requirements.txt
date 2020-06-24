@@ -1,0 +1,15 @@
+numpy
+pandas
+imgaug
+opencv-python
+pillow
+pretrainedmodels
+pytorch-lightning
+pytorch_toolbelt
+scikit-learn
+segmentation-models-pytorch
+tensorboard
+torch
+torchtext
+torchvision
+tqdm
